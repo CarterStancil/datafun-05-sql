@@ -5,10 +5,23 @@ Module 5 Repository
 
 ```
 
-git add 
+git add .
 
 git commit -m "Initial Commit"
 
-git push origin main
+git push -u origin main
+
+git pull 
+```
+
+# Update 
+
+```
+
+git add .
+
+git commit -m "after .venv setup" 
+
+git push -u origin main
 
 ```
