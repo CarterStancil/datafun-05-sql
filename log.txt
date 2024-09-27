@@ -1,0 +1,81 @@
+2024-09-27 16:40:09,881 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last_name
+2024-09-27 16:40:09,898 - ERROR - Error executing SQL from sql\update_records.sql: no such column: last_name
+2024-09-27 16:40:09,922 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 16:40:09,942 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 16:40:09,956 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: last_name
+2024-09-27 16:40:09,972 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: last_name
+2024-09-27 16:40:09,980 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 16:40:09,989 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.first_name
+2024-09-27 16:40:09,989 - INFO - Program ended
+2024-09-27 16:43:09,618 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last
+2024-09-27 16:43:09,625 - ERROR - Error executing SQL from sql\update_records.sql: no such column: last_name
+2024-09-27 16:43:09,636 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 16:43:09,640 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 16:43:09,643 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: last_name
+2024-09-27 16:43:09,647 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: last_name
+2024-09-27 16:43:09,649 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 16:43:09,654 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.first_name
+2024-09-27 16:43:09,655 - INFO - Program ended
+2024-09-27 16:44:50,787 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last_name
+2024-09-27 16:44:50,793 - ERROR - Error executing SQL from sql\update_records.sql: no such column: last_name
+2024-09-27 16:44:50,797 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 16:44:50,798 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 16:44:50,799 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: last_name
+2024-09-27 16:44:50,876 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: last_name
+2024-09-27 16:44:50,880 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 16:44:50,885 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.first_name
+2024-09-27 16:44:50,886 - INFO - Program ended
+2024-09-27 16:50:04,189 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last_name
+2024-09-27 16:50:04,197 - ERROR - Error executing SQL from sql\update_records.sql: no such column: last_name
+2024-09-27 16:50:04,213 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 16:50:04,217 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 16:50:04,224 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: last_name
+2024-09-27 16:50:04,226 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: last_name
+2024-09-27 16:50:04,226 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 16:50:04,226 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.first_name
+2024-09-27 16:50:04,226 - INFO - Program ended
+2024-09-27 16:54:17,888 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last_name
+2024-09-27 16:54:17,905 - ERROR - Error executing SQL from sql\update_records.sql: no such column: lastname
+2024-09-27 16:54:17,936 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 16:54:17,942 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 16:54:17,960 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: lastname
+2024-09-27 16:54:17,977 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: lastname
+2024-09-27 16:54:17,977 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 16:54:17,990 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.firstname
+2024-09-27 16:54:18,001 - INFO - Program ended
+2024-09-27 16:55:40,101 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last_name
+2024-09-27 16:55:40,109 - ERROR - Error executing SQL from sql\update_records.sql: no such column: lastname
+2024-09-27 16:55:40,126 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 16:55:40,126 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 16:55:40,126 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: lastname
+2024-09-27 16:55:40,134 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: lastname
+2024-09-27 16:55:40,138 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 16:55:40,138 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.firstname
+2024-09-27 16:55:40,138 - INFO - Program ended
+2024-09-27 17:01:05,242 - ERROR - Error executing SQL from sql\insert_records.sql: table authors has no column named last_name
+2024-09-27 17:01:05,248 - ERROR - Error executing SQL from sql\update_records.sql: no such column: last_name
+2024-09-27 17:01:05,269 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 17:01:05,291 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 17:01:05,295 - ERROR - Error executing SQL from sql\query_filter.sql: no such column: lastname
+2024-09-27 17:01:05,300 - ERROR - Error executing SQL from sql\query_sorting.sql: no such column: last_name
+2024-09-27 17:01:05,304 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 17:01:05,307 - ERROR - Error executing SQL from sql\query_join.sql: no such column: authors.first_name
+2024-09-27 17:01:05,307 - INFO - Program ended
+2024-09-27 17:02:41,473 - INFO - Program started
+2024-09-27 17:02:41,515 - DEBUG - Running create_tables.sql
+2024-09-27 17:02:41,529 - DEBUG - Running insert_records.sql
+2024-09-27 17:02:41,531 - DEBUG - Running update_records.sql
+2024-09-27 17:02:41,533 - DEBUG - Running delete_records.sql
+2024-09-27 17:02:41,533 - DEBUG - Running query_aggregation.sql
+2024-09-27 17:04:24,821 - INFO - Program started
+2024-09-27 17:04:24,872 - DEBUG - Running create_tables.sql
+2024-09-27 17:04:24,895 - DEBUG - Running insert_records.sql
+2024-09-27 17:04:24,899 - DEBUG - Running update_records.sql
+2024-09-27 17:04:24,903 - DEBUG - Running delete_records.sql
+2024-09-27 17:04:24,903 - DEBUG - Running query_aggregation.sql
+2024-09-27 17:04:24,910 - DEBUG - Running query_filter.sql
+2024-09-27 17:04:24,913 - DEBUG - Running query_sorting.sql
+2024-09-27 17:04:24,916 - DEBUG - Running query_group_by.sql
+2024-09-27 17:04:24,919 - DEBUG - Running query_join.sql
+2024-09-27 17:04:24,920 - INFO - All SQL operations completed successfully
+2024-09-27 17:04:24,921 - INFO - Program ended
